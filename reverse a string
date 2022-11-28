@@ -1,0 +1,2 @@
+txt = "RAjmohan is best" [::-1]
+print(txt)
